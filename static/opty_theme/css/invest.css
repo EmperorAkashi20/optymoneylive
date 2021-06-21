@@ -1,0 +1,231 @@
+.active_sip_right {
+    width: 268px !important;
+    margin-top: 71px;
+    height: 230px;
+}
+
+@media only screen and (max-width: 600px) {
+    table.table.table-bordered {
+    display: block;
+    width: 100%;
+    overflow-x: auto;
+}
+.active_sip_right {
+    width: initial !important;
+    margin-top: 0px !important;
+    height: 230px;
+    margin: 0 auto;
+}
+table.table.table-hover {
+   display: block;
+    width: 100%;
+    overflow-x: auto;
+}
+}
+table.table.table-hover {
+    border: 1px solid #ddd;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6{
+        color: #1c1c1c;
+}
+.current_value {
+    background: #d3363314;
+    padding: 20px;
+    border-radius: 4px;
+}
+.current_value p {
+    font-size: 14px;
+    padding-bottom: 0px;
+    margin-bottom: 0;
+}
+
+.current_value .port {
+    font-size: 16px;
+    font-weight: 500;
+}
+#tabs{
+    background: #007b5e;
+    color: #eee;
+}
+#tabs h6.section-title{
+    color: #eee;
+}
+
+#tabs .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: #f3f3f3;
+    background-color: transparent;
+    border-color: transparent transparent #f3f3f3;
+    border-bottom: 3px solid !important;
+    font-size: 20px;
+    font-weight: bold;
+    border-top: 0 !important;
+}
+#tabs .nav-tabs .nav-link {
+    border: 1px solid transparent;  
+    font-size: 20px;    
+}
+.nav-tabs .nav-item{
+    color: #d33633;
+    font-weight: bold;
+    font-size: 20px;
+}
+.table td, .table th, .table thead th{
+    border-bottom: 1px solid #d1dbec;
+    border-top: 1px solid #d1dbec;
+}
+
+.hovrclr:hover{
+    background-color: #d33633;
+    color:#fff;
+    font-weight: bold;
+}
+.hovrclr{
+    color: #000000;
+}
+.btn-primary,.btn-primary:hover{
+    background-color: #d33633;
+}
+.anchclrs{
+    color: #d33633;
+}
+.iconbackclr{
+    color: #d33633;
+}
+.table td, .table th, .table thead th{
+    border-bottom: none !important;
+}
+.login-container{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.login-form-1{    
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+}
+.login-form-1 h3{
+    text-align: center;
+    color: #333;
+}
+.login-form-2{
+    padding: 5%;
+    background: #d33633;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+}
+.login-form-2 h3{
+    text-align: center;
+    color: #fff;
+}
+.login-container form{
+    padding: 10%;
+}
+.btnSubmit
+{
+    width: 50%;
+    border-radius: 1rem;
+    padding: 1.5%;
+    border: none;
+    cursor: pointer;
+}
+.login-form-1 .btnSubmit{
+    font-weight: 600;
+    color: #fff;
+    background-color: #0062cc;
+}
+.login-form-2 .btnSubmit{
+    font-weight: 600;
+    color: #0062cc;
+    background-color: #fff;
+}
+.login-form-2 .ForgetPwd{
+    color: #fff;
+    font-weight: 600;
+    text-decoration: none;
+}
+.login-form-1 .ForgetPwd{
+    color: #0062cc;
+    font-weight: 600;
+    text-decoration: none;
+}
+input[type="text"]
+ {
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid #000000;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  border-radius: 0;
+}
+
+input[type="text"]:focus
+ {
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+.chiller_cb input:checked ~ span {
+  background: #d33633;
+  border-color: #fd2727;
+}
+.modal-content {
+    border: 0px solid #edeff1;
+    border-radius: 0px;
+}
+.full-focus{
+    padding: 5%;
+}
+
+.fa-5 {
+    font-size: 9em !important;
+    color: red;
+}
+
+.tblwidth
+{
+  width: 68%;
+}
+
+.fasice{
+  font-size: 2em !important;
+}
+.table th {
+    font-weight: 500;
+}
+
+.dropdown-menu.show .dropdown-item {
+    padding-left: 27px;
+    font-weight: 500 !important;
+    color: #44475b;
+}
+body .main-content {
+    margin-left: 0!important;
+}
+
+.card-header:first-child {
+
+    background-color: #fff !important;
+}
+div#sip_details_length {
+    float: left;
+}
+
+div#sip_details_filter {
+float: right;
+    margin-bottom: 10px;
+}
+
+table#sip_details th {
+    font-size: 13px;
+    vertical-align: baseline;
+}
+div#sip_details_filter input {
+    border: 1px solid #d1dbec;
+    margin-left: 10px;
+}
+
+div#sip_details_paginate {
+    float: right;
+}
+div#sip_details_info {
+    float: left;
+}
+.row.justify-content-center b {
+    font-size: 24px;
+}

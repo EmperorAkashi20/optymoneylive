@@ -1,0 +1,146 @@
+.card-text{
+	color: #ffffff;
+}
+.bg-danger{
+	background-color: #d33633 !important;
+}
+
+@media (min-width: 768px){
+.modal-dialog 
+{
+    width: 600px;
+    margin: 30px auto;
+}
+}
+
+@media (min-width: 576px)
+{
+.modal-dialog {
+    max-width: 45%;
+    margin: 1.75rem auto;
+}
+}
+@media (max-width: 600px){
+.form-horizontal label.control-label {
+    text-align: left !important;
+}
+.modal-footer .btn {
+    font-size: 14px;
+}
+.col-md-9.col-md-offset-2.ml-5 {
+    margin-left: 0 !important;
+}
+h3 {
+    font-size: 18px;
+}
+.ml-5 {
+    margin-left: 0px !important;
+}
+}
+.form-control{
+	height: 34px !important;
+	display: block !important;
+    width: 100%;
+   
+    padding: 6px 12px;
+    
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+
+
+.btnsize {
+    width: auto !important;
+    height: auto !important;
+    background-color: #d33633;
+}
+.btnsize:hover{
+	background-color: #d33633 !important;
+}
+
+legend{
+	display: block;
+    width: 100%;
+    padding: 0;
+    margin-bottom: 20px;
+    font-size: 21px;
+    line-height: inherit;
+    color: #333;
+    border: 0;
+    border-bottom: 1px solid #e5e5e5;
+}
+.btn-default {
+    color: #333;
+    background-color: #fff;
+    border-color: #ccc;
+}
+
+.form-group {
+    margin-bottom: 0rem !important;
+}
+
+
+.hovereffect:hover {
+background-color: red;
+opacity: 0.5;
+}
+h4.modal-title {
+    font-size: 18px;
+}
+.modal {
+    position: fixed;
+    z-index: 999999 !important;
+}
+.nice-select.form-control {
+    display: none !important;
+    /* margin-top: 40px; */
+}
+select {
+    margin-bottom: 30px;
+}
+
+.modal-title {
+    font-size: 18px !important;
+    font-weight: 500 !important;
+}
+.service_area .card.bg-danger.hovereffect .card-body.text-center {
+    background: #d33633 !important;
+}
+
+@media (min-width: 768px){
+
+.modal-dialog.modal-dialog-centered.noscroll_popup {
+ 
+    margin: 3.75rem auto !important;
+  
+}
+div#file_itr_popup {
+    overflow-y: hidden;
+}
+div#file_itr_popup{
+    overflow-y: hidden;
+}
+div#book_eca {
+    overflow-y: hidden;
+}
+
+}
+.tax_file_page a.btn.book_eca_btn:focus {
+    color: #fff !important;
+}
+
+.tax_file_page a.btn.file_itr_btn.sign_in:focus {
+     color: #fff !important;
+}
+div#middle-wizard .form-group {
+    margin-bottom: 20px !important;
+}
+.form-control:disabled, .form-control[readonly] {
+    background-color: #f4433629 !important;
+    opacity: 1;
+}

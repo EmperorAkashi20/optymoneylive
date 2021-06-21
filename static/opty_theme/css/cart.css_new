@@ -1,0 +1,544 @@
+h1, h2, h3, h4, h5 {
+   
+    font-weight: 500 !important;
+}
+.page-title-box {
+
+    background-color: #d33633 !important;
+    padding: 24px 12px 20px 12px;
+
+}
+
+.page-content-wrapper {
+    margin-top: 80px;
+}
+
+.card-body {
+
+    webkit-box-shadow: 0 1px 10px 0 rgba(0,0,0,.1);
+    box-shadow: 0 1px 10px 0 rgba(0,0,0,.1);
+}
+
+body[data-layout=horizontal][data-layout-size=boxed] {
+    background-color: #ffff;
+}
+
+i.fa.fa-trash {
+    float: right;
+    display: block;
+}
+img.empty_cart_img {
+    display: block;
+    width: 400px;
+    margin: 0 auto;
+    padding: 40px 0px;
+}
+.page-content.emptycart_page {
+    margin-top: 40px;
+}
+.page-content.emptycart_page a.btn.btn-primary.btn-sm.add_funds_btn {
+    display: block;
+    width: 300px;
+  
+}
+.page-content.emptycart_page {
+    background: #ffffff;
+}
+h3.price_bottom {
+    /* border: 0; */
+    bottom: 0;
+    position: absolute;
+    /* float: right; */
+    overflow: hidden;
+    clear: both;
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+
+h3.price_bottom span {
+    font-size: 22px;
+    color: #d8d8d8;
+    font-weight: 400;
+    padding-right: 10px;
+}
+.h5, h5 {
+    font-size: 24px;
+    font-weight: 500 !important;
+}
+.fa-trash:before {
+    content: "\f1f8";
+    cursor: pointer;
+}
+
+a.btn.btn-primary.btn-sm.add_funds_btn {
+    display: block;
+    width: 230px;
+    padding: 10px 20px;
+    font-size: 18px;
+    background: #d33633;
+    border: none;
+    margin: 0 auto;
+    border-radius: 37px;
+        margin-bottom: 20px;
+}
+i.mdi.mdi-plus.mr-2 {
+    
+    border-radius: 50%;
+    padding: 1px;
+}
+.product_right h3.header-title.text-center {
+    font-size: 22px;
+    font-weight: 500;
+    text-transform: initial;
+    color: #d8d8d8;
+    padding-top: 16px !important;
+}
+.custom-control.custom-checkbox {
+    margin-top: 20px;
+    background: #fbfbfb;
+    padding: 15px;
+    width: 100%;
+    text-align: center;
+    /* color: #fff !important; */
+}
+.dropdown-menu {
+
+    padding: 0px;
+}
+.bg-light {
+    background-color: #fbfbfb !important;
+}
+.search-bar .form-control {
+   
+    background-color: #fbfbfb;
+ 
+}
+a.dropdown-item.user_name {
+    background: #d33633 !important;
+    color: #fff;
+    /* text-align: center; */
+    font-size: 18px;
+    font-weight: 500;
+}
+.custom-control.custom-checkbox label span {
+    padding-left: 40px;
+
+}
+img.secure_pay_img {
+    /* width: 100%; */
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+.custom-control-label, .form-check-label {
+    font-weight: 500;
+    font-size: 18px;
+    color: #000;
+}
+.card.product_right .card-body {
+    padding: 0px;
+}
+
+element.style {
+}
+.card {
+    margin-bottom: 24px;
+    /* -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.05); */
+    /* box-shadow: 0 1px 1px rgba(0,0,0,.05); */
+}
+.card {
+ 
+    background-color: transparent;
+ 
+}
+.card-body {
+    background: #fff;
+}
+@media only screen and (min-width: 768px)
+{
+.card.product_left .card-body {
+  
+    max-width: 95%;
+}
+
+.media.icon_logos {
+
+    float: left;
+    padding-right: 10px;
+}
+.card.product_left .text-muted {
+    padding-top: 50px;
+    padding-left: 68px;
+  
+}
+}
+@media only screen and (max-width: 600px)
+{
+.navbar-brand-box {
+    display: block;
+}
+.custom-dropdown {
+  
+    float: left !important;
+}
+  span.logo {
+    position: absolute;
+    left: 32px;
+}
+  body[data-layout=horizontal] .navbar-brand-box {
+    float: none !important;
+ 
+   
+}
+a.dropdown-item.user_name span {
+    display: block !important;
+}
+.card.product_left {
+    margin-bottom: 40px;
+}
+.page-title-box {
+   
+    text-align: center;
+}
+h5 {
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+h3.price_bottom {
+  
+    bottom: -19px;
+    font-size: 20px;
+    text-align: left;
+}
+button.btn.btn-sm.mr-2.font-size-16.d-lg-none.header-item.waves-effect.waves-light {
+    top: 0px;
+    position: absolute;
+    left: 0px;
+}
+}
+
+
+
+.topnav .navbar-nav .nav-link{
+    font-size: 16px !important;
+}
+
+.app-search .form-control {
+background:#fff;
+    webkit-box-shadow: 0 1px 5px 0 rgba(0,0,0,.1);
+    box-shadow: 0 1px 5px 0 rgba(0,0,0,.1);
+}
+
+i.fa.fa-trash.confirm_del_icon {
+    /* text-align: center; */
+    /* display: block; */
+    /* width: 100%; */
+    /* float: right; */
+    position: absolute;
+    left: 50%;
+    font-size: 36px;
+    color: #d33633;
+}
+
+.modal_remove {
+    color: #fff;
+    background-color: #d33633;
+    border-color: #d33633;
+    width: 45%;
+}
+
+.modal_cancel {
+    color: #d33633;
+    background-color: #e6e7e8;
+    border-color: #e6e7e8;
+    width: 45%;
+}
+.modal-footer {
+
+    justify-content: center !important;
+}
+.modal-body {
+    position: relative;
+    -webkit-box-flex: 1;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: 2rem;
+    /* border: none !important; */
+}
+.card.product_left .card-body {
+    margin-bottom: 40px;
+}
+.modal-body h3.font-size-16 {
+    font-size: 24px !important;
+    color: #44475b;
+}
+@media (min-width: 576px){
+.modal-dialog {
+   margin: 13.75rem auto !important;
+}
+}
+
+p.text-muted.sip_date span {
+    border-bottom: 2px dotted;
+}
+i.fa.fa-pencil {
+    padding-left: 10px;
+    color: #d33633;
+ 
+        cursor: pointer;
+    font-size: 17px;
+}
+
+input#amout_edit {
+    font-size: 28px;
+    width: 50%;
+    text-align: center;
+    outline: none;
+    margin: 0 auto;
+    padding: 10px 10px 10px 2px;
+    display: block;
+    border: none;
+    border-bottom: 1px solid hsla(0,0%,46%,.12549);
+    color: #44475b;
+    display: inline-block;
+}
+
+h3.price_bottom span:after {
+    content: '₹';
+    right: -46px;
+    position: relative;
+    color: #000;
+}
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+h3.price_bottom i.fa.fa-pencil {
+    left: -19px;
+    position: relative;
+}
+.card-group-item h6.title:after {
+    content: "\f077";
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    float: right;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.card-group-item a.collapsed h6.title:after {
+content: "\f078";
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    float: right;
+    -moz-osx-font-smoothing: grayscale;
+}
+.custom-control-label, .form-check-label {
+
+    font-size: 14px;
+    color: #44475b;
+    margin-left: 12px;
+    letter-spacing: .3px;
+    -webkit-font-smoothing: auto;
+}
+
+.card h6.title span {
+    color: #a51f22;
+}
+
+
+i.fa.fa-fw.fa-bars {
+    position: relative;
+    z-index: 9999;
+}
+
+
+@media (max-width: 991.98px){
+.topnav {
+
+    margin-top: 62px !important;
+}
+}
+
+select[multiple], select[size] {
+    height: auto;
+}
+
+input, button, select, textarea {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+button, select {
+    text-transform: none;
+}
+button, input, optgroup, select, textarea {
+    margin: 0;
+    font: inherit;
+    color: inherit;
+}
+.dropdown-menu.show .dropdown-item {
+    padding-left: 27px;
+}
+.custom-dropdown{
+  padding: 4px 5px 4px 8px;
+    border: 1px solid hsla(207,5%,52%,.28);
+    color: #5a5555;
+    margin-bottom: 8px;
+}
+
+.custom-dropdown-icon{
+    font-size: 20px;
+    padding: 5px 5px 4px 22px;
+}
+.custom-dropdown:hover{
+    color: #5a5555;
+}
+.attributevaluecolor
+{
+    font-size: 13px;
+}
+.dropdown-item
+{
+    font-weight: 300;
+}
+
+.btn-success, .btn-success:hover {
+    background-color: #d33633;
+    color: #fff;
+    border-color: #d33633;
+    border-radius: 37px;
+}
+
+.btn-success:not(:disabled):not(.disabled).active, .btn-success:not(:disabled):not(.disabled):active, .show>.btn-success.dropdown-toggle {
+    color: #fff;
+    background-color: #a51f22;
+    border-color: #a51f22;
+}
+
+     select[multiple], select[size] {
+    height: auto;
+}
+
+input, button, select, textarea {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+button, select {
+    text-transform: none;
+}
+button, input, optgroup, select, textarea {
+    margin: 0;
+    font: inherit;
+    color: inherit;
+}
+.custom-dropdown{
+    padding: 7px 5px 8px 8px;
+    border: 1px solid hsla(207,5%,52%,.28);
+    color: #5a5555;
+}
+.custom-dropdown-icon{
+    font-size: 20px;
+    padding: 5px 5px 4px 22px;
+}
+.custom-dropdown:hover{
+    color: #5a5555;
+}
+.attributevaluecolor
+{
+    font-size: 13px;
+}
+.dropdown-item
+{
+    font-weight: 300;
+}
+
+/* Mutual Fund Detail Page Css Starts here*/
+
+#chartdiv {
+  width: 100%;
+  height: 500px;
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: #d33633;
+    background-color: #fffcfd;
+    margin-top: -1px;
+    border-top: 3px solid;    
+    text-align: center;
+}
+.nav-link
+{
+	text-align: center;	
+}
+.nav-pills>li>a, .nav-tabs>li>a{
+color: #d33633;
+}
+.card-header
+{
+	background-color: #fff;
+}
+.padd{
+	padding: 35px;
+}
+.backgrndxclr
+{
+	color: #505d69;
+	background-color: #fff;
+}
+.btn-success,.btn-success:hover
+{
+	background-color: #d33633;
+	color: #fff;
+	border-color: #d33633;
+}
+.table td, .table th,.table thead th{
+	border-bottom: 2px solid #d1dbec;
+}
+#multi3{
+	width: 100%;
+}
+input[type=range] 
+{
+	background-color: green;
+	    height: 2px;
+    border-radius: 10px;
+	}
+	.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    color: #495057;
+    font-weight: 500;
+}
+
+.lumpsum_calc .card-body{
+    box-shadow:none !important;
+}
+.right-sidebar-detail {
+    border-radius: 15px !important;
+    -webkit-box-shadow: 0 4px 9px 0 rgba(0,0,0,.15);
+    box-shadow: 0 4px 9px 0 rgba(0,0,0,.15);
+}
+.right-sidebar-detail .card-body {
+    box-shadow: none;
+}
+.right-sidebar-detail .card-body {
+    box-shadow: none;
+    border: 1px solid #ebebeb;
+    border-radius: 40px;
+}
+/* Mutual Fund Detail Page Css ends here*/
